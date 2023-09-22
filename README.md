@@ -1,0 +1,1 @@
+# kagi-search-for-new-tab
